@@ -183,11 +183,11 @@ footer{
     body{
         margin: 0;
         padding: 0;
-        width: 100wh;
+        width: 100vw;
     }
 
     .navbar ul li a{
-        padding: 5px 5px;
+        padding: 5px;
     }
 
     .container{
@@ -202,7 +202,7 @@ footer{
         padding: 0;
     }
     .div-2{
-        width: 100%;
+        width: 100vw;
     }
     .container img{
         width: 70%;
